@@ -14,6 +14,8 @@ Github actions is used to run the pipelines.
 
 `checks.yml`: This contains pipeline code for running basic sanity checks (static and dynamic code analysis) like test, linting, formatting checks.
 
+> To run pipelines locally try [act](https://github.com/nektos/act).
+
 ### Credits
 
 1. [Zero to production in rust book](https://www.zero2prod.com/index.html)
