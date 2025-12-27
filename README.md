@@ -1,4 +1,6 @@
-## Zero to production in rust
+> Notes i've taken for the book are available in [notes](https://github.com/dheeraj120501/zero-to-production-in-rust/tree/notes) branch.
+
+## Zero to production in Rust
 
 This is code for my walkthrough on zero to production rust book.
 
